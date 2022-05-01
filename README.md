@@ -1,7 +1,6 @@
 <div align="center">
 <img src="https://github.com/benjaminbialy/benjaminbialy/blob/main/githubHeaderIMG.png" align="center"/>
 </div>  
-<br>
   
 ### 🧑‍💻 I'm a front end web developer based in the beautiful Australia 🐨☀️🌊  
 I've spent years working with various web technologies such as HTML, CSS, Javascript and even a bit of PHP. I've been working with React.js (Next.js included) a tonne recently and often use Firebase for Authentication and Database services. I have a passion for building cool things and would spend every waking hour doing just that if I could.
@@ -24,7 +23,6 @@ Looking for a web developer? I'd love to help you out. Feel free to shoot me an 
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/xampp.png" alt="XAMPP" height="50" />  
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/git-scm-icon.svg" alt="Git" height="50" />  
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/firebase.png" alt="Firebase" height="50" />  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/figma-icon.svg" alt="Figma" height="50" />  
 </div>  
 <br/>  
 
