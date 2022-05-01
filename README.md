@@ -1,24 +1,21 @@
 <div align="center">
-<img src="https://github.com/benjaminbialy/benjaminbialy/blob/main/githubHeaderIMG.png" align="center" height="" width="500px" />
+<img src="https://github.com/benjaminbialy/benjaminbialy/blob/main/githubHeaderIMG.png" align="center" height="" width="90%" />
 </div>  
   
 
 
 
 ### I'm a front end web developer based in Australia ☀️🌊  
-I've spent years working with various web technologies such as HTML, CSS, Javascript and even a bit of PHP. I currently enjoy working with React.js and often use Firebase for Authentication and Database services.
+I've spent years working with various web technologies such as HTML, CSS, Javascript and even a bit of PHP. I've been working with React.js (Next.js included) a tonne recently and often use Firebase for Authentication and Database services.
 
 I've built projects ranging from [To Do Lists](https://remindable.netlify.app/) to a [Tutoring and Photography Business Website](alex-mirkovic.com). I even built a [Web based Chat App](https://cloaked.netlify.app/) to talk to my friends.
 
-On the side, I'm currently working on a site to take on the big players in the e-Learning space (think Quizlet and Anki). 
+On the side, I'm currently working on a site to take on the big players in the e-Learning space (think Quizlet and Anki). Just about finished with the UI.
 
-Looking for a web developer? I'd love to help you out. Feel free to shoot me an email at benjamincbialy@gmail.com  
+Looking for a web developer? I'd love to help you out. Feel free to shoot me an email at benjamincbialy@gmail.com. I'm always avaliable.
   
 
 <br/>  
-
-
-
 
 
 ## Languages and Tools  
