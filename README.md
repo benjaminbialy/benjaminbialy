@@ -3,7 +3,7 @@
 </div>  
   
 ### 🧑‍💻 I'm a front end web developer based in the beautiful Australia 🐨☀️🌊  
-I've spent years working with various web technologies such as HTML, CSS, Javascript and even a bit of PHP. I've been working with React.js (Next.js included) a tonne recently and often use Firebase for Authentication and Database services. I have a passion for building cool things and would spend every waking hour doing just that if I could.
+I've spent years working with various web technologies such as HTML, CSS, Javascript and even a bit of PHP. Recently, I've been working with React.js (Next.js included) a tonne and have been using Firebase for their Authentication and Database services.
 
 I've built projects ranging from [To Do Lists](https://remindable.netlify.app/) to a [Tutoring and Photography Business Website](alex-mirkovic.com). I even built a [Web based Chat App](https://cloaked.netlify.app/) to talk to my friends.
 
