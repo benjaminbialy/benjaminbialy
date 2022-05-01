@@ -11,8 +11,6 @@ On the side, I'm currently working on a site to take on the big players in the e
 
 Looking for a web developer? I'd love to help you out. Feel free to shoot me an email at benjamincbialy@gmail.com. I'm always avaliable.
   
-<br>
-
 ## Languages and Tools  
 <div align="center">  
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/react-original-wordmark.svg" alt="React" height="50" />  
