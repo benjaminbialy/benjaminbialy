@@ -22,8 +22,6 @@ Looking for a web developer? I'd love to help you out. Feel free to shoot me an 
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/git-scm-icon.svg" alt="Git" height="50" />  
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/firebase.png" alt="Firebase" height="50" />  
 </div>  
-<br/>  
-
 
 ## Github Stats  
 <table><tr><td valign="top" width="50%">
