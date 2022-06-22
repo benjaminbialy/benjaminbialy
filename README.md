@@ -11,7 +11,7 @@ On the side, I'm currently working on a site to take on the big players in the e
 
 Looking for a web developer? I'd love to help you out. Feel free to shoot me an email at benjamincbialy@gmail.com. I'm always avaliable.
 
-Also find me on [Upwork](https://www.upwork.com/freelancers/~010e8c3f713dce417d) and [StackOverflow](https://stackoverflow.com/users/16295769/benjamin-bialy)
+Also find me on [Upwork](https://www.upwork.com/freelancers/~010e8c3f713dce417d) and [StackOverflow](https://stackoverflow.com/users/16295769/benjamin-bialy).
   
 ## Languages and Tools  
 <div align="center">  
