@@ -1,6 +1,6 @@
-<div align="center">
+<!-- <div align="center">
 <img src="https://github.com/benjaminbialy/benjaminbialy/blob/main/githubHeaderIMG.png" align="center"/>
-</div>  
+</div>   -->
   
 ### 🧑‍💻 I'm a front end web developer based in the beautiful Australia 🐨☀️🌊  
 I've spent years working with various web technologies such as HTML, CSS, Javascript and even a bit of PHP. Recently, I've been working with React.js (Next.js included) a tonne and have been using Firebase for their Authentication and Database services.
