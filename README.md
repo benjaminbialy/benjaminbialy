@@ -5,7 +5,7 @@
 ### 🧑‍💻 Hey there! I'm a freelance front end web developer based in the beautiful Australia 🐨☀️🌊  
 I've spent years working with various web technologies such as HTML, CSS, Javascript and even a bit of PHP. Recently, I've been working with React.js (Next.js included) a tonne and have been using Firebase for their Authentication and Database services.
 
-I've built projects ranging from [To Do Lists](https://remindable.netlify.app/) to a [Checkout Page to offer Stripe Subscriptions](https://insider-checkout.herokuapp.com/). I've even built a [Web based Chat App](https://cloaked.netlify.app/) to talk to my friends.
+I've built projects ranging from a CRUD app to interact with OpenAI and the LinkedIn API to advanced Stripe checkout flows with webhooks to handle relevant payment events. I've even built a [Web based Chat App](https://cloaked.netlify.app/) to talk to my friends.
 
 On the side, I'm currently working on a site to take on the big players in the e-Learning space (think Quizlet and Anki) which is nearly ready to go live.
 
