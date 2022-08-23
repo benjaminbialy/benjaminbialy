@@ -7,9 +7,9 @@ I've spent years working with various web technologies such as HTML, CSS, Javasc
 
 I've built projects ranging from a CRUD app to interact with OpenAI and the LinkedIn API to advanced Stripe checkout flows with webhooks to handle relevant payment events. I've even built a [Web based Chat App](https://cloaked.netlify.app/) to talk to my friends.
 
-On the side, I'm currently working on a site to take on the big players in the e-Learning space (think Quizlet and Anki) which is nearly ready to go live.
+My [side project](https://recall-jade.vercel.app/) has around 300 users and was built with Next.js and Tailwind. It's taking on the big players such as Quizlet in the online educational tools space.
 
-Looking for a web developer? I'd love to help you out. Feel free to shoot me an email at benjamincbialy@gmail.com. I'm always avaliable.
+Looking for a web developer? I'd love to help you out. Feel free to shoot me an email at benjamincbialy@gmail.com.
 
 Also find me on [Upwork](https://www.upwork.com/freelancers/~010e8c3f713dce417d) and [StackOverflow](https://stackoverflow.com/users/16295769/benjamin-bialy).
   
