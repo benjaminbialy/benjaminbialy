@@ -5,7 +5,7 @@
 ### 🧑‍💻 Hey there! I'm a freelance fullstack developer based in the beautiful Australia 🐨☀️🌊  
 I've spent years working with various web technologies such as HTML, CSS, Javascript and Typescript. Recently, I've been working with React.js (Next.js included) a tonne and have been using Firebase and Supabase for their Authentication and Database services.
 
-I've built projects ranging from a CRUD app to interact with OpenAI and the LinkedIn API to advanced Stripe checkout flows with webhooks to handle relevant payment events.
+I've built projects ranging from a CRUD app to interact with OpenAI and the LinkedIn API to advanced Stripe checkout flows with webhooks to handle relevant payment events. On Upwork, I've worked for a handful of clients creating systems like dashboards to handle complex, nested objects to writing Postgres scripts for handling RLS using Supabase's auth functions. I've also built the backend for a React Native app using Plaid, Stripe and Patch to facilitate ACH payments for an Acorns-like app.
 
 My abandoned [side project](https://recall-jade.vercel.app/) has around 800 users and was built with Next.js and Tailwind. It's taking on the big players such as Quizlet in the online educational tools space.
 
