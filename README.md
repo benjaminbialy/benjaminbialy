@@ -7,7 +7,7 @@ I've spent years working with various web technologies such as HTML, CSS, Javasc
 
 I've built projects ranging from a CRUD app to interact with OpenAI and the LinkedIn API to advanced Stripe checkout flows with webhooks to handle relevant payment events. On Upwork, I've worked for a handful of clients creating systems like dashboards to handle complex, nested objects to writing Postgres scripts for handling RLS using Supabase's auth functions. I've also built the backend for a React Native app using Plaid, Stripe and Patch to facilitate ACH payments for an Acorns-like app.
 
-My abandoned [side project](https://recall-jade.vercel.app/) has around 800 users and was built with Next.js and Tailwind. It's taking on the big players such as Quizlet in the online educational tools space.
+My abandoned [side project](https://recall-jade.vercel.app/) has around 1300 users and was built with Next.js and Tailwind. It's taking on the big players such as Quizlet in the online educational tools space.
 
 Looking for a web developer? I'd love to help you out. Feel free to shoot me an email at benjamincbialy@gmail.com.
 
