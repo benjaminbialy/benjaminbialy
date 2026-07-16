@@ -9,9 +9,7 @@ I've built projects ranging from a CRUD app to interact with OpenAI and the Link
 
 My abandoned [side project](https://recall-jade.vercel.app/) has around 1300 users and was built with Next.js and Tailwind. It's taking on the big players such as Quizlet in the online educational tools space.
 
-Looking for a web developer? I'd love to help you out. Feel free to shoot me an email at benjamincbialy@gmail.com.
-
-Also find me on [Upwork](https://www.upwork.com/freelancers/~010e8c3f713dce417d) and [StackOverflow](https://stackoverflow.com/users/16295769/benjamin-bialy).
+Looking for a web developer? I'd love to help you out. Feel free to shoot me an email at benjamincbialy@gmail.com or find me on [Upwork](https://www.upwork.com/freelancers/~010e8c3f713dce417d).
   
 ## Languages and Tools  
 <div align="center">  
