@@ -21,12 +21,6 @@ Looking for a web developer? I'd love to help you out. Feel free to shoot me an 
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/firebase.png" alt="Firebase" height="50" />  
 </div>  
 
-## Github Stats  
-<table><tr><td valign="top" width="50%">
-
-<img src="https://github-readme-stats.vercel.app/api?username=benjaminbialy&show_icons=true&count_private=true&hide_border=true" align="left" style="width: 100%" />
-
-</td><td valign="top" width="50%">
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=benjaminbialy&hide_border=true&layout=compact" align="left" style="width: 100%" />
 
