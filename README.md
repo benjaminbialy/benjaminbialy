@@ -22,11 +22,6 @@ Looking for a web developer? I'd love to help you out. Feel free to shoot me an 
 </div>  
 
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=benjaminbialy&hide_border=true&layout=compact" align="left" style="width: 100%" />
-
-</td></tr></table>  
-
-
 ----
 
 <div align="center">Generated using <a href="https://profilinator.rishav.dev/" target="_blank">Github Profilinator</a></div>
